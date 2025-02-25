@@ -370,7 +370,7 @@
 
 
         <!-- START CTA -->
-        <section class="bg-cta" style="background-image: url('images/videopresen2.png');">
+        <section class="bg-cta" style="background-image: url('images/videopresen.png');">
             <div class="bg-overlay"></div>
             <div class="container">
                 <div class="row justify-content-center">
