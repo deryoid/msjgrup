@@ -239,7 +239,7 @@
                     </div>
                     <!--end col-->
 
-                    <div class="col-lg-4 col-md-6">
+                    <!-- <div class="col-lg-4 col-md-6">
                         <div class="feature-box card border-0 mt-3">
                             <div class="card-body">
                                 <div class="feature-icon mx-auto">
@@ -253,11 +253,8 @@
                                     <a href="#" class="text-primary text-decoration-underline">Learn More <i class="mdi mdi-arrow-right"></i></a>
                                 </div>
                             </div>
-                            <!--end card-body-->
                         </div>
-                        <!--end feature-box-->
                     </div>
-                    <!--end col-->
 
                     <div class="col-lg-4 col-md-6">
                         <div class="feature-box card border-0 mt-3">
@@ -272,12 +269,10 @@
                                 <div class="feature-link">
                                     <a href="#" class="text-primary text-decoration-underline">Learn More <i class="mdi mdi-arrow-right"></i></a>
                                 </div>
-                            </div>
-                            <!--end card-body-->
+                            </div>|
                         </div>
-                        <!--end feature-box-->
-                    </div>
-                    <!--end col-->
+                    </div> -->
+
                 </div>
                 <!--end row-->
             </div>
