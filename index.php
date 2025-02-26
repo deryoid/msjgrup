@@ -156,7 +156,7 @@
                 </div>
                 <!--end row-->
                 <div class="row">
-                    <div class="col-lg-4 col-md-6">
+                    <div class="col-lg-3 col-md-6">
                         <div class="feature-box card border-0 mt-3">
                             <div class="card-body">
                                 <div class="feature-icon mx-auto">
@@ -177,7 +177,7 @@
                     </div>
                     <!--end col-->
 
-                    <div class="col-lg-4 col-md-6">
+                    <div class="col-lg-3 col-md-6">
                         <div class="feature-box card border-0 mt-3">
                             <div class="card-body">
                                 <div class="feature-icon mx-auto">
@@ -197,7 +197,7 @@
                     </div>
                     <!--end col-->
 
-                    <div class="col-lg-4 col-md-6">
+                    <div class="col-lg-3 col-md-6">
                         <div class="feature-box card border-0 mt-3">
                             <div class="card-body">
                                 <div class="feature-icon mx-auto">
@@ -218,7 +218,7 @@
                     </div>
                     <!--end col-->
 
-                    <div class="col-lg-4 col-md-6">
+                    <div class="col-lg-3 col-md-6">
                         <div class="feature-box card border-0 mt-3">
                             <div class="card-body">
                                 <div class="feature-icon mx-auto">
