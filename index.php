@@ -319,7 +319,7 @@
                                     <div class="col-lg-6">
                                         <div class="works-description-left text-start bg-light mx-lg-3 mx-4 text-lg-end">
                                             <!-- <h5 class="fs-18">Debut with users</h5> -->
-                                            <p class="text-muted mb-0">Tidak hanya di bidang jasa kontraktor, kamipun bergerak pada beberapa sektor bidang usaha yaitu peternakan, penyewaan serta perdagangan, dimana bidang usaha tersebut sangat berkaitan dengan apa yang sudah kami jalani sebelumnya.
+                                            <p class="text-muted mb-0">Tidak hanya di bidang jasa kontraktor, kamipun bergerak pada beberapa sektor bidang usaha yaitu penyewaan serta perdagangan, dimana bidang usaha tersebut sangat berkaitan dengan apa yang sudah kami jalani sebelumnya.
                                             </p>
                                         </div>
                                     </div>
@@ -345,7 +345,7 @@
                                     <div class="col-lg-6">
                                         <div class="works-description-right text-start bg-light mx-lg-3 mx-4">
                                             <!-- <h5 class="fs-18">Research and Develop</h5> -->
-                                            <p class="text-muted mb-0">Kami menjalankan bidang bidang tersebut untuk mencoba memenuhi kebutuhan pembangunan yang saat ini sedang berlangsung dan makin bergejolak terutama untuk yang ada di daerah daerah, serta banyaknya kebutuhan akan permintaan baik di sektor pembangunan, perdagangan maupun peternakan</p>
+                                            <p class="text-muted mb-0">Kami menjalankan bidang bidang tersebut untuk mencoba memenuhi kebutuhan pembangunan yang saat ini sedang berlangsung dan makin bergejolak terutama untuk yang ada di daerah daerah, serta banyaknya kebutuhan akan permintaan baik di sektor pembangunan, perdagangan maupun penyewaan</p>
                                         </div>
                                     </div>
                                     <!--end col-->
