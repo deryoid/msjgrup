@@ -1234,9 +1234,16 @@
                 <div class="row">
                     <div class="col-lg-12 mb-3">
                         <div class="text-center">
-                            <img src="images/ms/msj_integrated.png" alt="home04" class="home-img" style="width: 25%; height: auto;">
+                            <img src="images/ms/msj_integrated.png" alt="home04" class="home-img" style="width: 25%; height: auto;" id="responsive-logo">
                         </div>
                     </div>
+                    <style>
+                        @media (max-width: 768px) {
+                            #responsive-logo {
+                                width: 50% !important;
+                            }
+                        }
+                    </style>
                     <div class="col-lg-12">
                         <div class="text-center">
                             <ul class="list-inline social-list mb-0">
