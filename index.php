@@ -765,11 +765,11 @@
                         </div>
                     </div>
                     <!--end col-->
-                    <!-- <div class="col">
+                    <div class="col">
                         <div class="client-images text-center mt-4">
-                            <img src="images/clients/24.png" alt="img4" class="img-fluid">
+                            <img src="images/clients/34.png" alt="img4" class="img-fluid">
                         </div>
-                    </div> -->
+                    </div>
                     <!--end col-->
                     <!-- <div class="col">
                         <div class="client-images text-center mt-4">
@@ -1118,7 +1118,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="card blog-box border-0 mt-4">
                             <div class="blog-img position-relative">
-                                <img src="images/blog/p7.png" alt="Blog" class="img-fluid rounded">
+                                <img src="images/blog/p7.jpg" alt="Blog" class="img-fluid rounded">
                                 <div class="bg-overlay rounded"></div>
                             </div>
                         </div>
