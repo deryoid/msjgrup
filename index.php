@@ -1234,7 +1234,7 @@
                 <div class="row">
                     <div class="col-lg-12 mb-3">
                         <div class="text-center">
-                            <img src="images/ms/msj_integrated.png" alt="home04" class="home-img" style="width: 100%; height: auto;">
+                            <img src="images/ms/msj_integrated.png" alt="home04" class="home-img" style="width: 25%; height: auto;">
                         </div>
                     </div>
                     <div class="col-lg-12">
