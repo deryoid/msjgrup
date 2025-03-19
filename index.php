@@ -104,7 +104,7 @@
                                 <h1>CV. MEGAH SUNJAYA </h1>
                                 <p class="text-black-50 fs-17 pt-4">Selama 7 tahun kami belajar untuk melakukan pengembangan usaha melalui kerja sama dengan beberapa perusahaan, sampai pada saat ini. Dan saat ini dengan beberapa aset usaha yang kami miliki dan beberapa pengalaman kerja serta para relasi-relasi yang selalu membantu untuk kami bertumbuh, kami mencoba melebarkan sayap untuk menjadi satu wadah perusahaan sendiri.</p>
                                 <div class="text-center subscribe-form mt-5">
-                                <form action="https://wa.me/6281319701128?text=Hubungi%20Kami" method="get" target="_blank">
+                                <form action="https://wa.me/6281250039746?text=Hubungi%20Kami" method="get" target="_blank">
                                     <input type="text" class="control-form" id="inputemail" placeholder="Hubungi Kami -->" readonly>
                                     <button type="submit" class="btn btn-primary">
                                         <i class="mdi mdi-whatsapp"></i> Whatsapp
@@ -1171,20 +1171,18 @@
                             <p class="mb-3"><i class="mdi mdi-web align-middle text-muted fs-20 me-2"></i> <span
                                     class="fw-medium">www.msjgrup.com</span></p>
                             <p class="mb-3"><i class="mdi mdi-phone align-middle text-muted fs-20 me-2"></i> <span
-                                    class="fw-medium">+62 813-1970-1128 (Hans)</span></p>
+                                    class="fw-medium">+62 831-3578-8886 </span></p>
                             <p class="mb-3"><i class="mdi mdi-phone align-middle text-muted fs-20 me-2"></i> <span
-                                    class="fw-medium">+62 831-3578-8886 (Nilam)</span></p>
+                                    class="fw-medium">+62 812-5003-9746 </span></p>
                             <p class="mb-3"><i class="mdi mdi-map-marker-outline text-muted fs-20 me-2"></i> <span
                                     class="fw-medium">Office : Jl. Tatah Amuntai permai Komp. Griya Bunyamin Kav.14Kel. Pasar Kamis, Kec kertak Hanyar, Kab Banjar  Banjarmasin 70654</span></p>
-                            <p class="mb-3"><i class="mdi mdi-map-marker-outline text-muted fs-20 me-2"></i> <span
-                                    class="fw-medium">Branch Office : Jl. Mangga Dua Raya F4 No 11-12 (Komp Ruko Bahan Bangunan), Kel Mangga Dua, kec. Mangga Besar, Kota Jakarta Pusat <br> Jl. Cilik Riwut – Pangkalan Bun Km 11.5, Kotawaringin Timur, Kalteng</span></p>
                         </div>
                         <!--end contact-details-->
                     </div>
                     <!--end col-->
                  
                     <div class="col-lg-7">
-                        <form action="https://wa.me/6281319701128?text=Hubungi%20Kami" method="get" target="_blank" class="contact-form" name="myForm" id="myForm">
+                        <form action="https://wa.me/6281250039746?text=Hubungi%20Kami" method="get" target="_blank" class="contact-form" name="myForm" id="myForm">
                             <span id="error-msg"></span>
                             <div class="row">
                                 <div class="col-lg-6">
