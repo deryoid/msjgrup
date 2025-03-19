@@ -794,6 +794,11 @@
                             <div class="text-center mb-5">
                                 <h3>Pengalaman Kerja</h3>
                                 <p class="text-muted mt-2 mb-0">Kami pernah melakukan pekerjaan dan berpartisipasi dengan perusahaan lain.</p>
+                                <div class="text-center mt-4">
+                                    <a href="images/exp/CP-MSJ.pdf" class="btn btn-primary" target="_blank" download>
+                                        <i class="mdi mdi-download"></i> Download Company Profile
+                                    </a>
+                                </div>
                             </div>
                         </div>
                         <!--end feature-box-->
@@ -829,29 +834,17 @@
                 </div>
                 <!--end row-->
                 <div class="row">
-                    <div class="col-md-6 col-lg-6">
+                    <div class="col-md-12 col-lg-12">
                         <div class="price-box card border-0 mt-4">
                             <div class="text-center">
                                 <div class="mt-lg-0 mt-5">
-                                    <img src="images/exp/exp1.png" alt="exp1" class="home-img">
+                                    <img src="images/exp/exp-new.png" alt="Experience Image" class="img-fluid rounded">
                                 </div>
                             </div>
                         </div>
                         <!--end pricing-box-->
                     </div>
                     <!--end col-->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="price-box card border-0 mt-4">
-                            <div class="text-center">
-                                <div class="mt-lg-0 mt-5">
-                                    <img src="images/exp/exp2.png" alt="exp2" class="home-img">
-                                </div>
-                            </div>
-                        </div>
-                        <!--end pricing-box-->
-                    </div>
-                    <!--end col-->
-              
                 </div>
                 <!--end row-->
             </div>
