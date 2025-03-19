@@ -7,33 +7,23 @@
     RewriteRule ^ - [L]
 
     # Penulisan ulang untuk file PHP
-    RewriteCond %{REQUEST_FILENAME}.php -f
-    RewriteRule ^(.*)$ $1.php [L,QSA]
-
-    # Penulisan ulang untuk direktori
-    RewriteCond %{REQUEST_FILENAME} !-f
     RewriteCond %{REQUEST_FILENAME} !-d
-    RewriteRule ^(.*)$ /index.php [L,QSA]
+    RewriteCond %{REQUEST_FILENAME}.php -f
+    RewriteRule ^(.*)$ $1.php [L]
 </IfModule>
 
 # Menonaktifkan penjelajahan direktori
 Options -Indexes
 
-# Melindungi file .htaccess
+# Mengatur halaman kesalahan
+ErrorDocument 404 /error/404.php
+ErrorDocument 500 /error/500.php
+
+# Melindungi file .htaccess dari akses publik
 <Files ".htaccess">
     Order Allow,Deny
     Deny from all
 </Files>
-
-# Melindungi file konfigurasi dan file sensitif
-<FilesMatch "\.(ini|conf|log|sql|sh|pl|py|jsp|asp|bat|exe|dll|phtml|cgi|shtml|phtm|phps|php3|php4|php5|php6|php7|php8|phps|php|bak|old|swp|inc|tpl|cfg|xml|yml|env)$">
-    Order Allow,Deny
-    Deny from all
-</FilesMatch>
-
-# Mengatur Error Document
-ErrorDocument 404 /error/404.php
-ErrorDocument 500 /error/500.php
 
 # Mencegah serangan XSS
 Header set X-XSS-Protection "1; mode=block"
@@ -42,7 +32,18 @@ Header set X-XSS-Protection "1; mode=block"
 Header always set X-Frame-Options "DENY"
 
 # Mengatur Content Security Policy (CSP)
-Header set Content-Security-Policy "default-src 'self'; script-src 'self' https://trustedscripts.example.com; object-src 'none';"
+Header set Content-Security-Policy "default-src 'self'; script-src 'self'; object-src 'none';"
 
-# Menghindari MIME Sniffing
+# Mengatur pengaturan keamanan lainnya
 Header set X-Content-Type-Options "nosniff"
+Header set Referrer-Policy "no-referrer"
+
+# Memaksa penggunaan HTTPS
+RewriteCond %{HTTPS} off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Mengatur batasan akses berdasarkan IP (contoh)
+# <RequireAll>
+#     Require all denied
+#     Require ip 192.168.1.1
+# </RequireAll>
