@@ -116,7 +116,7 @@
                         <!--end col-->
                         <div class="col-lg-6 offset-xl-1">
                             <div class="mt-lg-0 mt-5">
-                                <img src="images/ms/logo_msj_4.png" alt="home04" class="home-img">
+                                <img src="images/ms/logo_msj_4_1.png" alt="home04" class="home-img">
                             </div>
                         </div>
                     </div>
@@ -1232,6 +1232,11 @@
         <footer class="bg-dark section">
             <div class="container">
                 <div class="row">
+                    <div class="col-lg-12">
+                        <div class="text-center">
+                            <img src="images/ms/msj_integrated.png" alt="home04" class="home-img" style="width: 30%; height: auto;">
+                        </div>
+                    </div>
                     <div class="col-lg-12">
                         <div class="text-center">
                             <ul class="list-inline social-list mb-0">
